@@ -19,9 +19,9 @@ I'm Wai Linn Kyaw, a professional developer from Myanmar. Here are some things I
 ## My Projects
 
 ### Project 1
-Title - MM Storyteller
-Description - Webnovel Translations Projects (Korean, Chinese, Own Creation Novels)
-URL - https://mmstoryteller.com
+<p>Title - MM Storyteller</p>
+<p>Description - Webnovel Translations Projects (Korean, Chinese, Own Creation Novels)</p>
+<p>URL - https://mmstoryteller.com</p>
 
 ```python
 # Code snippet for Project 1
