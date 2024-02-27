@@ -17,6 +17,8 @@
 - **Programming Languages:** [HTML, CSS, JavaScript, JQuery, Bootstrap, ReactJS, PHP, Laravel]
 - **Frameworks and Libraries:** [Laravel Framework, ReactJS Library]
 - **Other Tools:** [MySQL, Postgresql, Experienced in Digital Ocean Cloud Server]
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" />
+<img src="https://w7.pngwing.com/pngs/543/102/png-transparent-laravel-wordmark-hd-logo.png" />
 
 ## My Projects
 
