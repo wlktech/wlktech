@@ -36,6 +36,11 @@
   </div>
 
 ## Levels of Languages
+
+<!-- Pie Chart for Subjects with Gradient Colors -->
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Subject 1','Subject 2','Subject 3'],datasets:[{data:[80,60,90],backgroundColor:['#4CAF50','#FFC107','#2196F3'],hoverOffset:4}]}}" alt="Subjects Pie Chart" />
+</p>
 <!-- Progress Bar for Subject 1 -->
 <p>
   Subject 1: <img src="https://img.shields.io/static/v1?label=&message=10%&color=green&style=progress" alt="Subject 1 Progress" />
