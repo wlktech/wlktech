@@ -28,6 +28,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="60px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="40px" />
 </div>
+![Progress](https://img.shields.io/static/v1?label=Progress&message=70%&color=blue&style=progress)
+
 
 
 ## My Projects
