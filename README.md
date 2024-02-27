@@ -2,6 +2,7 @@
 
 
 # Welcome to My GITHUB! 👋
+<h1 align="center">Wai Linn Kyaw</h1>
 
 I'm Wai Linn Kyaw, a professional developer from Myanmar. Here are some things I love:
 
