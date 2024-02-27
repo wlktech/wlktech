@@ -1,14 +1,13 @@
 <img src="https://png.pngtree.com/thumb_back/fh260/background/20210906/pngtree-ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner-image_804237.jpg" />
 
 
-# Hello, World! 👋
+# Welcome to my github! 👋
 
-I'm [Your Name], a passionate developer from [Your Location]. Here are some things I love:
+I'm Wai Linn Kyaw, a professional developer from Myanmar. Here are some things I love:
 
-- 🌱 I'm currently learning [Current Learning Focus].
-- 💬 Ask me about [Your Expertise].
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
+- 🌱 I'm currently learning ReactJS and React Native (Mobile App).
+- 💬 Ask me about PHP, Laravel, MySQL, Postgresql, and ReactJS.
+- 📫 How to reach me: wlktech22@gmail.com
 
 ## Languages and Tools
 
