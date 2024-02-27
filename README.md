@@ -3,7 +3,7 @@
 
 
 <h1 align="center">👋 Hi, I'm Wai Linn Kyaw. 👋</h1>
-<p align="center">Professional Web Developer</p>
+<h3 align="center">Professional Developer</h3>
 
 ### Here are some things I love:
 
