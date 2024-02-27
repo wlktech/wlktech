@@ -19,7 +19,7 @@
 - **Other Tools:** [MySQL, Postgresql, Experienced in Digital Ocean Cloud Server]
 
 <div style="display: inline:">
-  <img style="margin-right: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="50px" />
+  <img style="display:block; margin-right: 10;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="50px" />
   <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="50px" />
 </div>
 
