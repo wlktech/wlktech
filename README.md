@@ -36,23 +36,18 @@
   </div>
 
 <!-- Progress Bar for Subject 1 -->
-<p align="center">
-  Subject 1: <img src="https://img.shields.io/static/v1?label=&message=80%&color=green&style=progress" alt="Subject 1 Progress" />
+<p>
+  Subject 1: <img src="https://img.shields.io/static/v1?label=&message=10%&color=green&style=progress" alt="Subject 1 Progress" />
 </p>
 
 <!-- Progress Bar for Subject 2 -->
-<p align="center">
+<p>
   Subject 2: <img src="https://img.shields.io/static/v1?label=&message=60%&color=yellow&style=progress" alt="Subject 2 Progress" />
 </p>
 
 <!-- Progress Bar for Subject 3 -->
-<p align="center">
+<p>
   Subject 3: <img src="https://img.shields.io/static/v1?label=&message=90%&color=blue&style=progress" alt="Subject 3 Progress" />
-</p>
-
-<!-- Pie Chart for Subjects -->
-<p align="center">
-  <img src="https://charturl.com/svg?url=https://charturl.com/chart/pie?labels=Subject%201|Subject%202|Subject%203&data=80|60|90&colors=green|yellow|blue" alt="Subjects Pie Chart" />
 </p>
 
   ## My Projects
