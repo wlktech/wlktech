@@ -35,6 +35,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="40px" />
   </div>
 
+## Levels of Languages
 <!-- Progress Bar for Subject 1 -->
 <p>
   Subject 1: <img src="https://img.shields.io/static/v1?label=&message=10%&color=green&style=progress" alt="Subject 1 Progress" />
