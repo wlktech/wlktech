@@ -20,7 +20,7 @@
 
 <div style="display: inline:">
   <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="40px" />
-  <img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" width="40px" />
+  <img src="https://e7.pngegg.com/pngimages/225/67/png-clipart-transparency-jquery-computer-icons-jquery-icon-blue-text.png" width="40px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="40px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="40px" />
   <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="40px" />
