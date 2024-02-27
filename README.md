@@ -37,6 +37,7 @@
 
 ## Levels of Languages
 
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlktech&layout=compact&theme=dark" alt=wlktech />
 <!-- Pie Chart for Subjects with Gradient Colors -->
 <p align="center">
   <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Subject 1','Subject 2','Subject 3'],datasets:[{data:[80,60,90],backgroundColor:['#4CAF50','#FFC107','#2196F3'],hoverOffset:4}]}}" alt="Subjects Pie Chart" />
