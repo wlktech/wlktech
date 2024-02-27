@@ -1,6 +1,6 @@
 <img src="https://png.pngtree.com/thumb_back/fh260/background/20210906/pngtree-ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner-image_804237.jpg" />
 
-<h3 style="text-align: center;">Wai Linn Kyaw</h3>
+<h3 style="margin: auto;">Wai Linn Kyaw</h3>
 ### Hi there 👋
 
 <h1>Hello My Name is Wai Linn Kyaw.</h1>
