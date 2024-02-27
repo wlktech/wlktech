@@ -12,15 +12,16 @@ I'm Wai Linn Kyaw, a professional developer from Myanmar. Here are some things I
 
 ## Languages and Tools
 
-- **Programming Languages:** [List of languages you know]
-- **Frameworks and Libraries:** [List of frameworks and libraries you are familiar with]
-- **Other Tools:** [List other tools you use]
+- **Programming Languages:** [HTML, CSS, JavaScript, JQuery, Bootstrap, ReactJS, PHP, Laravel]
+- **Frameworks and Libraries:** [Laravel Framework, ReactJS Library]
+- **Other Tools:** [MySQL, Postgresql, Experienced in Digital Ocean Cloud Server]
 
 ## My Projects
 
 ### Project 1
-
-[Description of Project 1]
+Title - MM Storyteller
+Description - Webnovel Translations Projects (Korean, Chinese, Own Creation Novels)
+URL - https://mmstoryteller.com
 
 ```python
 # Code snippet for Project 1
