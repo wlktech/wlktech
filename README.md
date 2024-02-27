@@ -21,7 +21,7 @@ I'm Wai Linn Kyaw, a professional developer from Myanmar. Here are some things I
 
 [Description of Project 1]
 
-```python
+```php
 # Code snippet for Project 1
 print("Hello, Project 1!")
 
