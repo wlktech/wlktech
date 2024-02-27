@@ -21,7 +21,7 @@
 <div style="display: inline:">
   <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="40px" />
   <img src="https://www.pngitem.com/pimgs/m/206-2069866_transparent-css3-logo-png-jquery-logo-png-png.png" width="40px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="50px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="40px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="40px" />
   <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="40px" />
