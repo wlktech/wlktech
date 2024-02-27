@@ -17,8 +17,8 @@
 - **Programming Languages:** [HTML, CSS, JavaScript, JQuery, Bootstrap, ReactJS, PHP, Laravel]
 - **Frameworks and Libraries:** [Laravel Framework, ReactJS Library]
 - **Other Tools:** [MySQL, Postgresql, Experienced in Digital Ocean Cloud Server]
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="100px" />
-<img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="100px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="50px" />
+<img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="50px" />
 
 ## My Projects
 
