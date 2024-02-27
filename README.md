@@ -18,7 +18,7 @@
 - **Frameworks and Libraries:** [Laravel Framework, ReactJS Library]
 - **Other Tools:** [MySQL, Postgresql, Experienced in Digital Ocean Cloud Server]
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="100px" />
-<img src="[https://w7.pngwing.com/pngs/543/102/png-transparent-laravel-wordmark-hd-logo.png](https://static.vecteezy.com/system/resources/previews/012/697/294/original/3d-laravel-programming-framework-logo-free-png.png" width="100px" />
+<img src="https://w7.pngwing.com/pngs/543/102/png-transparent-laravel-wordmark-hd-logo.png" width="100px" />
 
 ## My Projects
 
