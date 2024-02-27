@@ -3,8 +3,7 @@
 
 
 <h1 align="center">👋 Hi, I'm Wai Linn Kyaw. 👋</h1>
-
-A professional developer from Myanmar. 
+<p align="center">Professional Web Developer</p>
 
 ### Here are some things I love:
 
