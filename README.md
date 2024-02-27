@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Welcome to My GITHUB! 👋</h1>
+<h1 align="center">👋 Welcome to My GITHUB! 👋</h1>
 
 I'm Wai Linn Kyaw, a professional developer from Myanmar. Here are some things I love:
 
