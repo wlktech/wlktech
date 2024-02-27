@@ -1,7 +1,7 @@
 <!DOCTYPE html>
   <html>
   <head>
-    <title>WLK-TECH Profile</title>
+
   </head>
   <body>
 
