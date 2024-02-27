@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Wai Linn Kyaw. 👋</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-### Currently Working as a maintenance developer for ATOM Pay App.
+### Currently working as a maintenance developer for ATOM Pay App.
 
 ### Here are some things I love:
 - 🌱 I'm currently learning ReactJS and React Native (Mobile App).
@@ -22,5 +22,5 @@
 
 ### Project 1
 <p>Title - MM Storyteller</p>
-<p>Description - Webnovel Translations Projects (Korean, Chinese, Own Creation Novels)</p>
+<p>Description - Webnovel Translations Project (Korean, Chinese, Own Creation Novels)</p>
 <p>URL - https://mmstoryteller.com</p>
