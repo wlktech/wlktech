@@ -1,19 +1,28 @@
 <img src="https://png.pngtree.com/thumb_back/fh260/background/20210906/pngtree-ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner-image_804237.jpg" />
 
-<h3 style="margin: auto;">Wai Linn Kyaw</h3>
-### Hi there 👋
 
-<h1>Hello My Name is Wai Linn Kyaw.</h1>
+# Hello, World! 👋
 
-**wlktech/wlktech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name], a passionate developer from [Your Location]. Here are some things I love:
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning [Current Learning Focus].
+- 💬 Ask me about [Your Expertise].
+- 📫 How to reach me: [Your Email]
+- 😄 Pronouns: [Your Pronouns]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Languages and Tools
+
+- **Programming Languages:** [List of languages you know]
+- **Frameworks and Libraries:** [List of frameworks and libraries you are familiar with]
+- **Other Tools:** [List other tools you use]
+
+## My Projects
+
+### Project 1
+
+[Description of Project 1]
+
+```python
+# Code snippet for Project 1
+print("Hello, Project 1!")
+
