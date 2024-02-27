@@ -2,9 +2,11 @@
 
 
 
-<h1 align="center">👋 Welcome to My GITHUB! 👋</h1>
+<h1 align="center">👋 Hi, I'm Wai Linn Kyaw. 👋</h1>
 
-I'm Wai Linn Kyaw, a professional developer from Myanmar. Here are some things I love:
+A professional developer from Myanmar. 
+
+###Here are some things I love:
 
 - 🌱 I'm currently learning ReactJS and React Native (Mobile App).
 - 💬 Ask me about PHP, Laravel, MySQL, Postgresql, and ReactJS.
