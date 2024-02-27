@@ -23,6 +23,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="40px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="40px" />
   <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="40px" />
 </div>
 
 
